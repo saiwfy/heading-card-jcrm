@@ -1,0 +1,21 @@
+{
+    "name": "saiwfy/heading-card-jcrm",
+    "description": "heading-card-jcrm API package",
+    "type": "PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saiwfy",
+            "email": "a_i_r@qq.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "saiwfy\\heading-card-jcrm\\": "src"
+        }
+    }
+}
