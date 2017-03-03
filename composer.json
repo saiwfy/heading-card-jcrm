@@ -1,6 +1,6 @@
 {
-    "name": "saiwfy/heading-card-jcrm",
-    "description": "heading-card-jcrm API package",
+    "name": "saiwfy/HeadingCardJcrm",
+    "description": "heading card jcrm API package",
     "type": "PHP",
     "license": "MIT",
     "authors": [
